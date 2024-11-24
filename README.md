@@ -25,23 +25,27 @@ La empresa ha almacenado los datos de funcionamiento de la máquina en una únic
 
 ## 💪 Competition challenge
 
-Create a report that covers the following:
-1. Train and evaluate a predictive model to predict machine failure.
-2. Which dataset features are the strongest predictors of machine failure?
-3. Are your predictions more accurate if you model each machine separately?
+Cree un informe que cubra lo siguiente:
+1. Entrene y evalúe un modelo predictivo para predecir fallas de la máquina.
+2. ¿Qué características del conjunto de datos son los predictores más sólidos de fallas de las máquinas?
+3. ¿Son sus predicciones más precisas si modela cada máquina por separado?
 
 ## 🧑‍⚖️ Judging criteria
 
 | CATEGORY | WEIGHTING | DETAILS                                                              |
 |:---------|:----------|:---------------------------------------------------------------------|
-| **Recommendations** | 35%       | <ul><li>Clarity of recommendations - how clear and well presented the recommendation is.</li><li>Quality of recommendations - are appropriate analytical techniques used & are the conclusions valid?</li><li>Number of relevant insights found for the target audience.</li></ul>       |
-| **Storytelling**  | 35%       | <ul><li>How well the data and insights are connected to the recommendation.</li><li>How the narrative and whole report connects together.</li><li>Balancing making the report in-depth enough but also concise.</li></ul> |
-| **Visualizations** | 20% | <ul><li>Appropriateness of visualization used.</li><li>Clarity of insight from visualization.</li></ul> |
-| **Votes** | 10% | <ul><li>Up voting - most upvoted entries get the most points.</li></ul> |
+| **Recommendations** | 35%       | 
+Claridad de las recomendaciones: qué tan clara y bien presentada está la recomendación.
+Calidad de las recomendaciones: ¿se utilizan técnicas analíticas apropiadas y son válidas las conclusiones?
+Número de conocimientos relevantes encontrados para el público objetivo.
+       |
+| **Storytelling**  | 35%       | <ul><li>Qué tan bien están conectados los datos y los conocimientos con la recomendación.</li><li>Cómo se conectan la narrativa y el informe completo.</li><li>Equilibrio para hacer que el informe sea lo suficientemente profundo pero también conciso.</li></ul> |
+| **Visualizations** | 20% | <ul><li>Idoneidad de la visualización utilizada.</li><li>Claridad de percepción a partir de la visualización.</li></ul> |
+| **Votes** | 10% | <ul><li>Votación positiva: las entradas más votadas obtienen la mayor cantidad de puntos.</li></ul> |
 
-## ✅ Checklist before publishing into the competition
-- Rename your workspace to make it descriptive of your work. N.B. you should leave the notebook name as notebook.ipynb.
-- **Remove redundant cells** like the judging criteria, so the workbook is focused on your story.
-- Make sure the workbook reads well and explains how you found your insights. 
-- Try to include an **executive summary** of your recommendations at the beginning.
-- Check that all the cells run without error
+## ✅ Lista de verificación antes de publicar en el concurso
+- Cambie el nombre de su espacio de trabajo para que sea descriptivo de su trabajo. NÓTESE BIEN. debe dejar el nombre del cuaderno como notebook.ipynb.
+- **Elimine las celdas redundantes** como los criterios de evaluación, para que el libro se centre en su historia.
+- Asegúrese de que el libro se lea bien y explique cómo Encontré tus ideas. 
+- Intente incluir un **resumen ejecutivo** de sus recomendaciones al principio.
+- Verifique que todas las celdas se ejecuten sin errores
