@@ -32,16 +32,12 @@ Cree un informe que cubra lo siguiente:
 
 ## 🧑‍⚖️ Judging criteria
 
-| CATEGORY | WEIGHTING | DETAILS                                                              |
-|:---------|:----------|:---------------------------------------------------------------------|
-| **Recommendations** | 35%       | 
-Claridad de las recomendaciones: qué tan clara y bien presentada está la recomendación.
-Calidad de las recomendaciones: ¿se utilizan técnicas analíticas apropiadas y son válidas las conclusiones?
-Número de conocimientos relevantes encontrados para el público objetivo.
-       |
-| **Storytelling**  | 35%       | <ul><li>Qué tan bien están conectados los datos y los conocimientos con la recomendación.</li><li>Cómo se conectan la narrativa y el informe completo.</li><li>Equilibrio para hacer que el informe sea lo suficientemente profundo pero también conciso.</li></ul> |
-| **Visualizations** | 20% | <ul><li>Idoneidad de la visualización utilizada.</li><li>Claridad de percepción a partir de la visualización.</li></ul> |
-| **Votes** | 10% | <ul><li>Votación positiva: las entradas más votadas obtienen la mayor cantidad de puntos.</li></ul> |
+| **Category**         | **Weighting** | **Details**                                                                                         |
+|-----------------------|---------------|-----------------------------------------------------------------------------------------------------|
+| **Recommendations**   | **35%**       | - **Clarity of recommendations**: How clear and well presented the recommendation is.<br>- **Quality of recommendations**: Are appropriate analytical techniques used, and are the conclusions valid?<br>- **Relevant insights**: Number of relevant insights found for the target audience. |
+| **Storytelling**      | **35%**       | - How well the data and insights are connected to the recommendation.<br>- How the narrative and report connect together.<br>- Balancing depth and conciseness in the report.  |
+| **Visualizations**    | **20%**       | - Appropriateness of the visualization used.<br>- Clarity of insights derived from the visualization. |
+| **Votes**             | **10%**       | - Upvoting: Entries with the most votes get the highest points.                                     |
 
 ## ✅ Lista de verificación antes de publicar en el concurso
 - Cambie el nombre de su espacio de trabajo para que sea descriptivo de su trabajo. NÓTESE BIEN. debe dejar el nombre del cuaderno como notebook.ipynb.
